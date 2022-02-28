@@ -29,5 +29,8 @@
     "npm": "8.5.2",
     "inquire": "^0.4.8"
   },
+  "devDependencies": {
+    "jest":"^27.5.1"
+  },
   "homepage": "https://github.com/jpcisneros411/Team-Generator#readme"
 }
