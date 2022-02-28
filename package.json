@@ -1,0 +1,29 @@
+{
+  "name": "develop",
+  "version": "1.0.0",
+  "description": "team-generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpcisneros411/Team-Generator.git"
+  },
+  "keywords": [
+    "team",
+    "generator"
+  ],
+  "author": "jpcisneros411",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpcisneros411/Team-Generator/issues"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "install": "^0.13.0",
+    "npm": "8.5.2",
+    "inquire": "^0.4.8"
+  },
+  "homepage": "https://github.com/jpcisneros411/Team-Generator#readme"
+}
