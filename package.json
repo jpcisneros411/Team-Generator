@@ -4,7 +4,7 @@
   "description": "team-generator",
   "main": "index.js",
   "directories": {
-    "test":"lib",
+    "test":"tests",
     "lib":"lib"
   },
   "scripts": {
